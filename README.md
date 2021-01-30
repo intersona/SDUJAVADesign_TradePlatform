@@ -1,0 +1,2 @@
+# SDUJAVADesign_TradePlatform
+大一Java课程设计
